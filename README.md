@@ -1,0 +1,1 @@
+Simple Camera App works only on a physical device
